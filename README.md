@@ -1,2 +1,2 @@
-# django_blog
-Django App of a Blog
+# blog_template
+Template for a blog website in Django
